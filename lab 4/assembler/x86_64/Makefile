@@ -15,7 +15,7 @@ clean:
 		rm ${BINARIES} *.o || true
 
 
-lab4:           lab4b   lab4a
+lab4:           lab4b   lab4a	lab4c
 
 
 lab4a:          lab4a.s
@@ -25,4 +25,8 @@ lab4a:          lab4a.s
 lab4b:          lab4b.s
 	        as -g -o lab4b.o lab4b.s
 		ld -g -o lab4b lab4b.o
+
+lab4c:          lab4c.s
+	        as -g -o lab4c.o lab4c.s
+		ld -g -o lab4c lab4c.o
 
