@@ -10,10 +10,7 @@ _start:
     mov     $start,%r15         /* loop index */
 
 loop:
-    /* ... body of the loop ... do something useful here ... */
-    /* right now, rdx is being used for len, but gets overwritten by div. FIX THIS SHIT*/
-/* rdx must be zero before div, deal with that */
-
+    /* ... body of the loop ...  */
 
     movq    $msg,%rsi
     movq    $d,%r10
