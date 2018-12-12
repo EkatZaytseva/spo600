@@ -1,0 +1,12 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/ezaytseva/project/testing/files
+## $ ../../hashdeep-4.4/src/hashdeep -r media
+## 
+292796,2d0e03de98e33ad6533cdf00419b10d1,9705ba52dde15b874e2be5ebd966292825967cbcfe31c71866d9d57ab425fc3e,/home/ezaytseva/project/testing/files/media/14_Toronto.jpg
+305577,d836708b120ed4142ab468a575be536c,28653f9e72059213fe3571d841dfbc7bedadbdb649d415985714aba119474d98,/home/ezaytseva/project/testing/files/media/thumb-1920-567999.jpg
+653327,9be4c0f6ba45a27fae83ac50098b723b,4bee1ca901ebe97ebb0fcc9e0a17046b68c7b413de54f47d675e76ea7d4e40c5,/home/ezaytseva/project/testing/files/media/G-Eazy - Interlude.mp3
+2198973,85202887c80e86af567a07d07b294db5,f42fd6a8cf8c45954757944c9d4d65d2f66cde878d0dbefd12593b4363b9f5e0,/home/ezaytseva/project/testing/files/media/Lifetheory - Daisy.mp3
+3754188,4d45771ee5b0420b9df45c55cdd4cede,947195aafb317df4cda6c736d3486c6eaf6edba9b098b1e3e6b829406a3d5f0c,/home/ezaytseva/project/testing/files/media/Short-stories-from-100-Selected-Stories.pdf
+5407593,c564017050de0f9161bdb00fa15e89f5,6f1a31d7be4f50d4ab886af04dbdedbb71f0d426f7024501324c03aeac32e0ba,/home/ezaytseva/project/testing/files/media/Bi2-Prayer.mp3
+12298451,26b90f24712415b1620c27c9e23fad23,50384b8b34e99dc122a20741bb66f55e5d3d5ff33be920e4f1b9820d7702f0f9,/home/ezaytseva/project/testing/files/media/FortyStories.pdf
